@@ -11,7 +11,7 @@ My name is Ryan Cooper and I am a rising third year Industrial Engineering stude
 
 ### More Information
 
-I am currently working on the content that will go here.
+I'm currently working on the content that will go here.
 
 ### Contact me
 
