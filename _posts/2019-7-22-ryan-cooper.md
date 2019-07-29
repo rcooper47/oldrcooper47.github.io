@@ -15,4 +15,4 @@ But my hope is that as these things become more apparent to me I become able to 
 PS. 
 
 		They say to end these things with a joke, so I'll drop the headshot from my freshman year here for us to all chuckle at.
-![freshman year headshot]({{site.baseurl}}/_posts/Ryan_Cooper.jpg.jpg)
+![freshman year headshot]({{site.baseurl}}/_posts/Ryan-Cooper.jpg.jpg)
